@@ -1,6 +1,7 @@
 Class MC2022AOC.DayBlank [ Abstract ]
 {
 
+// This is the stage 1 for the days games.
 ClassMethod runGame(intLive As %Integer = 1, intVerb As %Integer = 0) As %Integer
 {
 	I intLive=1
