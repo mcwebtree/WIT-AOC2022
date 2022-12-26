@@ -42,7 +42,7 @@ ClassMethod runGame(intLive As %Integer = 1, intVerb As %Integer = 0) As %Intege
 	Q intCount
 }
 
-ClassMethod checkList(aStr) as %Integer
+ClassMethod checkList(aStr) As %Integer
 {
 	s retVal=1
 	try {
